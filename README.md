@@ -4,9 +4,7 @@
 - 💞️ I’m looking to master React JS ...
 - 📫 How to reach me ...
 - https://www.linkedin.com/in/fiky95/
-- https://x.com/fiky95
-- https://www.facebook.com/m.elfiky1995
-
+- m.elfiky1995@gmail.com
 <!---
 elfiky1995/elfiky1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
