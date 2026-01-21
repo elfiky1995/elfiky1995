@@ -5,6 +5,6 @@
 - **💼 Professional Role:** Full-stack developer with experience in both front-end and back-end technologies (ReactJS, React Native, GraphQL, PostgreSQL and NodeJS).  
 - **📫 How to Reach Me:**  
   - **LinkedIn:** [linkedin.com/in/fiky95](https://www.linkedin.com/in/fiky95/)  
-  - **Email:** m.elfiky1995@gmail.com  
+  - **Email:** mahmoudfiky95@gmail.com  
 
 I’m always eager to collaborate on exciting projects and share knowledge. Let’s connect!
